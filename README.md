@@ -1,4 +1,6 @@
-# Ol·, Mundo!
- Primeiro repositÛrio do curso de Git e GitHub
+# Ol√°, Mundo!
+ Primeiro reposit√≥rio do curso de Git e GitHub
 
- RepositÛrio criado durante uma aula
+ Reposit√≥rio criado durante uma aula
+
+essa linha eu adicionei diretamente no site.
